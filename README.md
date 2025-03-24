@@ -3,7 +3,7 @@ Own projects and projects done with a team.
 
 
 ## Console BlackJack card game
-- 
+- Which can be found in [this Repo](https://github.com/ABergli/ConsoleBlackJack)
 
 ## Medical Image Segmentation
 - 
